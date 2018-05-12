@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="jung-jai-2.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-jai-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-3d-demos-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-jai-samples-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/collections-generic-4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/j3d-core-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/wstx-asl-3.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/colt-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-samples-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/vecmath-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-graph-impl-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/concurrent-1.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-3d-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-algorithms-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-io-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jung-visualization-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
